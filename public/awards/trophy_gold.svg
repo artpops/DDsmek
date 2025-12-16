@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" fill="#f8f7ff"/>
+  <path d="M30 20h60v20c0 15-12 28-27 30v10h12v10H45V80h12V70C42 68 30 55 30 40z" fill="#ffd166" stroke="#f49d00" stroke-width="4"/>
+  <path d="M20 25h15v8c0 8-6 15-13 16L20 25z" fill="#ffe38d"/>
+  <path d="M85 25h15l-2 24c-7-1-13-8-13-16z" fill="#ffe38d"/>
+  <circle cx="60" cy="46" r="10" fill="#fff6d9" stroke="#f49d00" stroke-width="3"/>
+  <text x="60" y="52" font-size="12" text-anchor="middle" fill="#f49d00" font-family="Arial">⭐</text>
+</svg>

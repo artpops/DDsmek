@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" fill="#f0f9ff"/>
+  <path d="M30 25h60l-5 60-25 10-25-10z" fill="#a2e4f5" stroke="#00a0c6" stroke-width="4"/>
+  <path d="M60 32l8 20h22L70 66l8 22-18-12-18 12 8-22-20-14h22z" fill="#fff" stroke="#00a0c6" stroke-width="3"/>
+  <text x="60" y="70" font-size="14" text-anchor="middle" fill="#007a99" font-family="Arial">STREAK</text>
+</svg>
