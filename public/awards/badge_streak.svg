@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="16" fill="#e9f5ff"/>
+  <path d="M60 14 86 28v24c0 22-12 42-26 54-14-12-26-32-26-54V28Z" fill="#7cc4ff" stroke="#1f8bda" stroke-width="4"/>
+  <text x="60" y="64" font-size="28" text-anchor="middle" fill="#0b4a79" font-family="Arial">🔥</text>
+</svg>
