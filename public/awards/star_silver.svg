@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" fill="#f5f7fb"/>
+  <polygon points="60,15 72,45 105,45 77,65 88,95 60,76 32,95 43,65 15,45 48,45" fill="#c8d5ff" stroke="#7a8cc7" stroke-width="4"/>
+  <circle cx="60" cy="60" r="12" fill="#fff" stroke="#7a8cc7" stroke-width="3"/>
+  <text x="60" y="66" font-size="12" text-anchor="middle" fill="#7a8cc7" font-family="Arial">LVL</text>
+</svg>
